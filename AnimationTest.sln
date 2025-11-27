@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimationTest", "AnimationTest\AnimationTest.csproj", "{7DDB3D9A-8B38-4877-96A7-B7DDB187068E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimationLoader", "..\AnimationLoader\AnimationLoader\AnimationLoader.csproj", "{07B0D8BC-0A4D-478D-9E4E-D0A90E0C267B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{7DDB3D9A-8B38-4877-96A7-B7DDB187068E}.Release|x64.Build.0 = Release|Any CPU
 		{7DDB3D9A-8B38-4877-96A7-B7DDB187068E}.Release|x86.ActiveCfg = Release|Any CPU
 		{7DDB3D9A-8B38-4877-96A7-B7DDB187068E}.Release|x86.Build.0 = Release|Any CPU
+		{07B0D8BC-0A4D-478D-9E4E-D0A90E0C267B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B0D8BC-0A4D-478D-9E4E-D0A90E0C267B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B0D8BC-0A4D-478D-9E4E-D0A90E0C267B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{07B0D8BC-0A4D-478D-9E4E-D0A90E0C267B}.Debug|x64.Build.0 = Debug|Any CPU
+		{07B0D8BC-0A4D-478D-9E4E-D0A90E0C267B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{07B0D8BC-0A4D-478D-9E4E-D0A90E0C267B}.Debug|x86.Build.0 = Debug|Any CPU
+		{07B0D8BC-0A4D-478D-9E4E-D0A90E0C267B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B0D8BC-0A4D-478D-9E4E-D0A90E0C267B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B0D8BC-0A4D-478D-9E4E-D0A90E0C267B}.Release|x64.ActiveCfg = Release|Any CPU
+		{07B0D8BC-0A4D-478D-9E4E-D0A90E0C267B}.Release|x64.Build.0 = Release|Any CPU
+		{07B0D8BC-0A4D-478D-9E4E-D0A90E0C267B}.Release|x86.ActiveCfg = Release|Any CPU
+		{07B0D8BC-0A4D-478D-9E4E-D0A90E0C267B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
